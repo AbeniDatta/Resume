@@ -97,13 +97,13 @@ body{
 	font-size: 15px;
 	text-align: center;
 	padding: 5px;
-	margin-top: 175%;
+	margin-top: 2400px;
 }
 
 #box{
 	background-color: white;
 	width: 650px;
-	height: 350%;
+	height: 2200px;
 	position: absolute;
 	right: 240px;
 	top: 200px;
